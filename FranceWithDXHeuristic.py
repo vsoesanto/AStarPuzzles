@@ -3,7 +3,6 @@ This file augments FranceWithCosts.py with heuristic information,
 so that it can be used by an A* implementation.
 The particular heuristic is 10 * longitude_difference, or
 "the DX heuristic".
-
 '''
 
 from FranceWithCosts import *

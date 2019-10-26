@@ -4,7 +4,7 @@
 QUIET_VERSION = "0.2"
 PROBLEM_NAME = "Eight Puzzle"
 PROBLEM_VERSION = "0.2"
-PROBLEM_AUTHORS = ['S. Tanimoto']
+PROBLEM_AUTHORS = ['Vincent Soesanto']
 PROBLEM_CREATION_DATE = "8-JAN-2018"
 PROBLEM_DESC=\
 '''This formulation of the Eight Puzzle uses generic
